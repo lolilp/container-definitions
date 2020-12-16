@@ -17,5 +17,5 @@
 
 LAYER_DEFINITIONS = struct(
     commit = "2f6c8895dfe0a580253b6d8da1c1744e515806db",
-    sha256 = "9fc2e0ec9a2ec5c4a61fa457f877e8cf9ccd93e6b969b5f8e1005dc1789bc1cc",
+    sha256 = "6f295f7f403c82c11aec4cad8644e0a5dd12a98033050165e01df2946ec2e7ed",
 )
